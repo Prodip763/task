@@ -1,3 +1,50 @@
-h1{
-    color: red;
+header{
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.banner{
+    position: relative;
+    background-image: url("https://img.freepik.com/free-photo/house-protection-bank_1150-12959.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775&semt=sph");
+    min-height: 10vh;
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0 200px;
+    border-radius: 10px;
+}
+.banner-text{
+    padding-left: 150px;
+    font: bold;
+}
+.left{
+    padding-left: 30px;
+}
+.left2{
+    padding-left: 80px;
+}
+.banner-p{
+    padding-left: 150px;
+}
+
+.avatar1{
+    padding-left: 150px;
+}
+.avatar{
+    padding-right: 50px;
+    margin-right: 50px;
+}
+.custom {
+    margin-right: 50px;
+}
+/* .banner-mid{
+    background-color: whitesmoke;
+} */
+.banner-end{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    border-radius: 10px;
+
 }
