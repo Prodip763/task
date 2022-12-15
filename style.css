@@ -124,7 +124,7 @@ svg {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
 
 }
 .center-btn{
@@ -141,13 +141,13 @@ svg {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 60%;
 }
 .s-img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 38%;
+    width: 30%;
 }
 .client{
     margin-top: 25%;
@@ -175,7 +175,15 @@ svg {
     padding-left: 20px;
 
 }
+.foot{
+    margin-top: 100px;
+}
 .card-gap{
     padding-left: 20px;
+}
+.footer{
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
