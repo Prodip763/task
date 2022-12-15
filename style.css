@@ -1,10 +1,10 @@
-header{
+header {
     position: absolute;
     z-index: 10;
     width: 100%;
 }
 
-.banner{
+.banner {
     position: relative;
     background-image: url("https://img.freepik.com/free-photo/house-protection-bank_1150-12959.jpg?size=626&ext=jpg&ga=GA1.2.86413933.1642213775&semt=sph");
     min-height: 10vh;
@@ -13,34 +13,38 @@ header{
     padding: 100px 0 200px;
     border-radius: 10px;
 }
-.banner-text{
+
+.banner-text {
     padding-left: 150px;
     font: bold;
 }
-.left{
+
+.left {
     padding-left: 30px;
 }
-.left2{
+
+.left2 {
     padding-left: 80px;
 }
-.banner-p{
+
+.banner-p {
     padding-left: 150px;
 }
 
-.avatar1{
+.avatar1 {
     padding-left: 150px;
 }
-.avatar{
+
+.avatar {
     padding-right: 50px;
     margin-right: 50px;
 }
+
 .custom {
     margin-right: 50px;
 }
-/* .banner-mid{
-    background-color: whitesmoke;
-} */
-.banner-end{
+
+.banner-end {
     display: flex;
     justify-content: space-around;
     background-color: white;
@@ -48,19 +52,23 @@ header{
     border-radius: 10px;
 
 }
-.pay{
+
+.pay {
     width: 100px;
 }
-.solution{
+
+.solution {
     color: #063b28b0;
 }
-.in-card{
+
+.in-card {
     border-radius: 10px;
-    
+
     padding: 2%;
     box-shadow: 5px 5px 20px rgb(92, 87, 87);
 }
-.center{
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -69,7 +77,8 @@ header{
     border-radius: 50%;
     box-shadow: 5px 5px 20px rgb(92, 87, 87);
 }
-.condition{
+
+.condition {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -78,7 +87,8 @@ header{
     border-radius: 50%;
     box-shadow: 5px 5px 20px rgb(92, 87, 87);
 }
-.calculation{
+
+.calculation {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -88,12 +98,56 @@ header{
     box-shadow: 5px 5px 20px rgb(92, 87, 87);
 }
 
-.bank{
+.bank {
     margin-top: 20px;
     gap: 10px;
 }
-.subscribe{
+
+.subscribe {
     background-color: #063b28b0;
     padding: 100px 0 200px;
     border-radius: 10px;
+}
+
+svg {
+    width: 15px;
+}
+
+.subscriber {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgb(92, 87, 87);
+}
+
+.sub-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.center-btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.subs-gap{
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+.subs-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.s-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+}
+.client{
+    margin-top: 25%;
 }
