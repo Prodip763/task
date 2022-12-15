@@ -111,6 +111,9 @@ header {
 
 svg {
     width: 15px;
+    background-color: blue;
+    border-radius: 50%;
+    color: aliceblue;
 }
 
 .subscriber {
@@ -150,4 +153,17 @@ svg {
 }
 .client{
     margin-top: 25%;
+}
+.bg-color{
+    color: #063b28b0;
+}
+.agency{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.agency-gap{
+    margin-left: 20%;
+}
+.btn-width{
 }
