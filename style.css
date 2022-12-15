@@ -111,9 +111,7 @@ header {
 
 svg {
     width: 15px;
-    background-color: blue;
     border-radius: 50%;
-    color: aliceblue;
 }
 
 .subscriber {
@@ -165,5 +163,19 @@ svg {
 .agency-gap{
     margin-left: 20%;
 }
-.btn-width{
+.img{
+    width: 50px;
+    height: 50px;
 }
+
+.review{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgb(92, 87, 87);
+    padding-left: 20px;
+
+}
+.card-gap{
+    padding-left: 20px;
+}
+
